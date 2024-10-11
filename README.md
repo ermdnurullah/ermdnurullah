@@ -1,16 +1,26 @@
 ### Hi there 👋
 
-<!--
-**ermdnurullah/ermdnurullah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello, I'm [Md Nurullah] 👋
 
-Here are some ideas to get you started:
+## About Me
+I'm a passionate software developer with a love for creating innovative solutions. I specialize in web development and have experience with various programming languages and frameworks.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- **Languages**: HTML, CSS, JavaScript, PHP, Python
+- **Frameworks**: tailwind css, Bootstrap, React, Node.js, Expressjs, Symfony, Laravel
+- **Tools**: Git, Docker
+
+## Projects
+- **[Project Name ](#)**: A brief description of what this project does and the technologies used.
+
+
+## GitHub Stats
+![Md Nurullah GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+## Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/ermdnurullah)
+- [Twitter](https://x.com/ermdnurullah)
+- [Personal Website](https://codingstatus.com)
+
+## Fun Fact
+I love watching movies on the weekends! 🌲
