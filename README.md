@@ -15,7 +15,7 @@ I'm a passionate software developer with a love for creating innovative solution
 
 
 ## GitHub Stats
-![Md Nurullah GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Md Nurullah GitHub Stats](https://github-readme-stats.vercel.app/api?username=ermdnurullah&show_icons=true&theme=radical)
 
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/ermdnurullah)
