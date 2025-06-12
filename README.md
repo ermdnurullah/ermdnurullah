@@ -3,12 +3,11 @@
 # Hello, I'm [Md Nurullah] 👋
 
 ## About Me
-I'm a passionate software developer with a love for creating innovative solutions. I specialize in web development and have experience with various programming languages and frameworks.
+
+Software Engineer with 6.5+ years of full-stack development experience, specializing in scalable web applications across E-commerce, PIM (Akeneo, UnoPim), and Project Management systems. Skilled in both backend and frontend technologies with a strong focus on clean, high-quality code.
 
 ## Skills
-- **Languages**: HTML, CSS, JavaScript, PHP, Python
-- **Frameworks**: tailwind css, Bootstrap, React, Node.js, Expressjs, Symfony, Laravel
-- **Tools**: Git, Docker
+HTML, CSS, bootstrap , tailwind css, Javascript, ReactJs, NodeJs, ExpressJs, PHP, Laravel, Python, Django, JSON, XML, YAML, Docker, Git, GitHub, Gitlab
 
 ## Projects
 - **[Project Name ](#)**: A brief description of what this project does and the technologies used.
